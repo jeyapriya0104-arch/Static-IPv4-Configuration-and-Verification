@@ -43,7 +43,6 @@ Step 1: Launch Cisco Packet Tracer
 1. Open the Cisco Packet Tracer application on the computer.
 2. Wait until the main workspace appears.
 3. Select the **Logical Workspace** to create the network setup.
-4. <img width="567" height="487" alt="image" src="https://github.com/user-attachments/assets/2e1f9b16-7879-4cfc-96b5-7c2aeeaefcb9" />
 
 
  Step 2: Add the PC Device
@@ -112,6 +111,8 @@ Step 1: Launch Cisco Packet Tracer
 3. Check the assigned-IP ping result to verify that the workstation responds at its configured address.
 4. Record any errors or packet loss if they occur.
 5. Conclude whether the specified configuration and verification tests were successful.
+6. <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/23b7f881-5a7c-4086-9d30-627ddfef1ef6" />
+
 
 🖥️ Commands and Expected Results
 
@@ -135,7 +136,7 @@ Expected result: Successful replies from the assigned IP address with zero packe
 <img width="1386" height="1135" alt="image" src="https://github.com/user-attachments/assets/fd55d385-334c-4f6f-8b15-d4d4e3b028ea" />
 
 
-## 📊 Observation
+ 📊 Observation
 
 | Test             | Expected Outcome   |
 | ---------------- | ------------------ |
@@ -144,15 +145,15 @@ Expected result: Successful replies from the assigned IP address with zero packe
 | Assigned IP ping | Successful         |
 | Packet loss      | 0%                 |
 
-## 🔍 Result Analysis
+ 🔍 Result Analysis
 
 The `ipconfig /all` command checks the configured network parameters. The loopback test verifies local TCP/IP functionality, while the assigned-IP test checks whether PC0 responds at its configured address.
 
-## 🚀 Innovative Applications
+ 🚀 Innovative Applications
 
 This verification method is useful for basic workstation setup, computer laboratory maintenance, network administration training, and troubleshooting IP configuration errors.
 
-## ⚠️ Precautions
+ ⚠️ Precautions
 
 - Enter all IP parameters correctly.
 - Check the subnet mask carefully.
@@ -160,8 +161,18 @@ This verification method is useful for basic workstation setup, computer laborat
 - Record the actual output displayed in Packet Tracer.
 - Remember that a local ping does not prove external network connectivity.
 
-## ✅ Conclusion
+ ✅ Conclusion
 
 Thus, PC0 was configured with static IPv4 parameters in Cisco Packet Tracer. The `ipconfig /all` and ping commands were used to verify the configuration and local TCP/IP functionality. Successful responses with zero packet loss indicate that the specified local verification tests have passed.
 
-இந்த மாதிரி தான் எல்லா sections-க்கும் heading, icon, கீழே கோடு, அதற்குக் கீழே content என்று ஒரே professional style-ல் இருக்கும். நீ website அல்லது project report-ல் பயன்படுத்தும்போது இதே layout-ஐ follow பண்ணலாம்.
+ 👩‍💻 Author
+
+**Jeyapriya**
+
+**Course:** B.Tech – Computer Science and Business Systems
+
+---
+
+ ⭐ Project Status
+
+**Completed**
