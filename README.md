@@ -112,6 +112,7 @@ Step 1: Launch Cisco Packet Tracer
 4. Record any errors or packet loss if they occur.
 5. Conclude whether the specified configuration and verification tests were successful.
 6. <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/23b7f881-5a7c-4086-9d30-627ddfef1ef6" />
+<img width="653" height="546" alt="image" src="https://github.com/user-attachments/assets/81d785ea-6a05-4211-b6b0-61cd207d018b" />
 
 
 🖥️ Commands and Expected Results
